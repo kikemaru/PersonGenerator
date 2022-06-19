@@ -1,4 +1,4 @@
-# <h1 align="center">PersonGenerator 👤</h1>
+# <p align="center">PersonGenerator 👤</p>
 Generator of non-existent personalities - 2017
 
 ## Установка
