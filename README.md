@@ -3,10 +3,7 @@ Generator of non-existent personalities - 2017
 
 ## Установка
 Используйте клонирование репозитория для размещения библиотеки у себя в проекте:
-```
-git clone https://github.com/kikemaru/PersonGenerator.git
-``` 
-Или установите библиотеку из конечного релиза по прямой <a href="https://github.com/kikemaru/PersonGenerator/archive/refs/tags/php.zip">ссылке-></a><br>
+
 
 <br>
 
